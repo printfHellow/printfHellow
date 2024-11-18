@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @printfHellow
-- 👀 I’m interested in game, book, technology
-- 🌱 I’m currently learning Java program
-- 💞️ I’m looking to collaborate on everyone if u know C/C++, Java, Javascript
+- 👀 I’m interested in game and technology
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on everyone if u know Java, C#
 - 📫 How to reach me email: phinamyb2004@gmail.com
 
 <!---
